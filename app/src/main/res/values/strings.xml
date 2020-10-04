@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaidBonusad</string>
+    <string name="paidbonusad">PaidBonusad</string>
+    <string name="todo">TODO</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+</resources>

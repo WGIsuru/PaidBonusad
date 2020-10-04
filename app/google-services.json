@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459324542425",
+    "firebase_url": "https://paidbonusad.firebaseio.com",
+    "project_id": "paidbonusad",
+    "storage_bucket": "paidbonusad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459324542425:android:b091fc31c0e82d0c901dc8",
+        "android_client_info": {
+          "package_name": "com.example.paidbonusad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459324542425-o9rdv430ea3ssjst7ree8pnktibos4hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKrzcnDDyY7NXdyVHfiU6p8aWO8kIqkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459324542425-o9rdv430ea3ssjst7ree8pnktibos4hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
